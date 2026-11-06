@@ -1,0 +1,38 @@
+/* =============================================================
+   GRAPH VIEW – màu nền trung tính, bám theo theme sáng/tối
+   Màu theo khu vực (01–07, MOC) được đặt trong graph.json
+   ============================================================= */
+
+/* Node chưa thuộc nhóm màu nào (ví dụ note ở thư mục gốc) */
+.graph-view.color-fill {
+  color: var(--text-muted);
+}
+
+/* Node đang được chọn / focus */
+.graph-view.color-fill-focused {
+  color: var(--interactive-accent);
+}
+
+/* Link tới note chưa tồn tại (chỉ hiện khi bật "Existing files only" = off) */
+.graph-view.color-fill-unresolved {
+  color: var(--text-faint);
+}
+
+/* Đường nối mờ để không lấn át node và nhãn */
+.graph-view.color-line {
+  color: var(--background-modifier-border-hover);
+}
+
+/* Nhãn rõ chữ */
+.graph-view.color-text {
+  color: var(--text-normal);
+}
+
+/* Mũi tên (nếu bật showArrow) và vòng highlight khi hover */
+.graph-view.color-arrow {
+  color: var(--text-muted);
+}
+
+.graph-view.color-circle {
+  color: var(--interactive-accent);
+}
