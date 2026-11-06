@@ -1,0 +1,6 @@
+/* Brighten links in Editing/Live Preview and Reading views */
+.cm-s-obsidian .cm-link, 
+.markdown-rendered a {
+    color: #58a6ff !important;
+    text-decoration-color: #58a6ff !important;
+}

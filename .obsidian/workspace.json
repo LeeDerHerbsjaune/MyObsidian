@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "244578f406168a4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8abfc79d4332b43d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25810550a0a45acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Mathematics/01.2 Calculus/Vector Calculus/Vector Calculus.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vector Calculus"
+            }
+          },
+          {
+            "id": "e11c68eabef8fdad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Physics/02.1 Classical Mechanics/Classical Mechanics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classical Mechanics"
+            }
+          },
+          {
+            "id": "267a16e5a767d89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Mathematics/01.9. Mathematical Logic/MOC - Number Systems.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC - Number Systems"
+            }
+          },
+          {
+            "id": "aa4112ad2daf7810",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "25c1cab8df4a7b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Mathematics/01.3 Differential Equations/Differential Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Differential Equations"
+            }
+          },
+          {
+            "id": "c330b403b35da161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Physics/02.1 Classical Mechanics/Mechanical Systems.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanical Systems"
+            }
+          },
+          {
+            "id": "35b04cc7a4c1be2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "965111412bfacf86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c721f8db6d30fd99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f1c40002521277a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf671c4c57181e3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "26b7330cab661eef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.8999938964844
+  },
+  "right": {
+    "id": "830567c20048a934",
+    "type": "split",
+    "children": [
+      {
+        "id": "978cfa272cf8cfe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48e1191b69d1ba04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "02ffc892a807cca7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Generalized coordinates.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a10c13716e0644c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "629376c3a963c3f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8f796ee25e77ffff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Generalized coordinates.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "claude-sidebar:New Claude Code Tab": false
+    }
+  },
+  "active": "35b04cc7a4c1be2d",
+  "lastOpenFiles": [
+    "Knowledge.code-workspace",
+    "MyObsidian/README.md",
+    "MyObsidian",
+    "02 Physics/02.1 Classical Mechanics/Mechanical Systems.md",
+    "01 Mathematics/01.3 Differential Equations/Differential Equations.md",
+    "02 Physics/02.1 Classical Mechanics/Classical Mechanics.md",
+    "02 Physics/Mecha.canvas",
+    "RoadMap.canvas",
+    "01 Mathematics/01.1 Algebra/Linear Algebra/Core Mathematical Structures/Determinants/Determinants and Invertibility.md",
+    "01 Mathematics/01.1 Algebra/Linear Algebra/Core Mathematical Structures/Determinants/Cofactor Expansion.md",
+    "01 Mathematics/01.1 Algebra/Linear Algebra/Core Mathematical Structures/Determinants/Determinants.md",
+    "01 Mathematics/01.1 Algebra/Linear Algebra/Linear Algebra.md",
+    "01 Mathematics/01.2 Calculus/Vector Calculus/Vector Calculus.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Ordinary Differential Equations (ODEs).md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Nonhomogeneous Linear Second-Order ODEs.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Homogeneous Linear Second-Order ODEs.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Second-Order Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/First-Order Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Autonomous Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Riccati Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Homogeneous First-Order Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Bernoulli Differential Equations.md",
+    "01 Mathematics/01.2 Calculus/Calculus.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Exact Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Ordinary Differential Equations/Separable Differential Equations.md",
+    "01 Mathematics/01.3 Differential Equations/Partial Differential Equations (PDEs).md",
+    "01 Mathematics/01.3 Differential Equations/Classification by Independent Variables.md",
+    "01 Mathematics/01.2 Calculus/Measure-Theoretic Integration/Measure-Theoretic Integration.md",
+    "01 Mathematics/01.2 Calculus/Measure-Theoretic Integration/Vector-Valued Integration.md",
+    "01 Mathematics/01.2 Calculus/Measure-Theoretic Integration",
+    "01 Mathematics/01.2 Calculus/Differential Forms",
+    "01 Mathematics/01.2 Calculus/Tensor Calculus",
+    "01 Mathematics/01.2 Calculus/Fractional Calculus",
+    "01 Mathematics/01.2 Calculus/Calculus of Variations",
+    "01 Mathematics/01.2 Calculus/Vector Calculus",
+    "01 Mathematics/01.2 Calculus/Infinite Sequences and Series",
+    "01 Mathematics/01.2 Calculus/Integral Calculus/Untitled",
+    "01 Mathematics/01.1 Algebra/Linear Algebra/Advanced Linear Algebra/Advanced Vector Space Theory",
+    "05 Robotics & Autonomous System/05.7 Robot Simulation/Untitled.canvas"
+  ]
+}

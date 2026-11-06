@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Neutral Academia",
+  "enabledCssSnippets": [
+    "bright-links",
+    "--callout-color",
+    "graph"
+  ]
+}

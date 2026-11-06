@@ -1,0 +1,110 @@
+/* =============================================================
+   BỘ DECOR CALLOUT GRADIENT + CHỮ ĐƠN SẮC TỐI ƯU ĐỌC CHỮ
+   ============================================================= */
+
+/* --- 1. NHÓM THÔNG TIN & GHI CHÚ (NOTE, INFO, TODO) --- */
+.callout[data-callout="note"], .callout[data-callout="info"], .callout[data-callout="todo"] {
+  --callout-color: 0, 180, 216;
+  background: linear-gradient(90deg, rgba(0, 180, 216, 0.15) 0%, rgba(114, 9, 183, 0.15) 100%);
+  border-left: 4px solid #00b4d8;
+}
+/* Chữ tiêu đề: Màu xanh Cyan sáng */
+.callout[data-callout="note"] .callout-title, 
+.callout[data-callout="info"] .callout-title, 
+.callout[data-callout="todo"] .callout-title {
+  color: #00f5d4 !important; 
+}
+
+/* --- 2. NHÓM GỢI Ý & BÍ KÍP (TIP, HINT, IMPORTANT, ATTENTION) --- */
+.callout[data-callout="tip"], .callout[data-callout="hint"], .callout[data-callout="important"], .callout[data-callout="attention"] {
+  --callout-color: 255, 0, 127;
+  background: linear-gradient(90deg, rgba(255, 0, 127, 0.15) 0%, rgba(255, 140, 0, 0.15) 100%);
+  border-left: 4px solid #ff007f;
+}
+/* Chữ tiêu đề: Màu hồng Neon rực rỡ */
+.callout[data-callout="tip"] .callout-title, 
+.callout[data-callout="hint"] .callout-title, 
+.callout[data-callout="important"] .callout-title, 
+.callout[data-callout="attention"] .callout-title {
+  color: #ff66b2 !important;
+}
+
+/* --- 3. NHÓM THÀNH CÔNG (SUCCESS, CHECK, DONE) --- */
+.callout[data-callout="success"], .callout[data-callout="check"], .callout[data-callout="done"] {
+  --callout-color: 0, 245, 212;
+  background: linear-gradient(90deg, rgba(0, 245, 212, 0.12) 0%, rgba(56, 176, 0, 0.15) 100%);
+  border-left: 4px solid #00f5d4;
+}
+/* Chữ tiêu đề: Màu xanh lá cây sáng lục bảo */
+.callout[data-callout="success"] .callout-title, 
+.callout[data-callout="check"] .callout-title, 
+.callout[data-callout="done"] .callout-title {
+  color: #52b788 !important;
+}
+
+/* --- 4. NHÓM CẢNH BÁO (WARNING, CAUTION, BUG) --- */
+.callout[data-callout="warning"], .callout[data-callout="caution"], .callout[data-callout="bug"] {
+  --callout-color: 247, 127, 0;
+  background: linear-gradient(90deg, rgba(247, 127, 0, 0.18) 0%, rgba(252, 191, 73, 0.18) 100%);
+  border-left: 4px solid #f77f00;
+}
+/* Chữ tiêu đề: Màu vàng cam rực nắng */
+.callout[data-callout="warning"] .callout-title, 
+.callout[data-callout="caution"] .callout-title, 
+.callout[data-callout="bug"] .callout-title {
+  color: #fee440 !important;
+}
+
+/* --- 5. NHÓM NGUY HIỂM (DANGER, ERROR, FAILURE, FAIL, MISSING) --- */
+.callout[data-callout="danger"], .callout[data-callout="error"], .callout[data-callout="failure"], .callout[data-callout="fail"], .callout[data-callout="missing"] {
+  --callout-color: 230, 57, 70;
+  background: linear-gradient(90deg, rgba(230, 57, 70, 0.18) 0%, rgba(109, 89, 122, 0.18) 100%);
+  border-left: 4px solid #e63946;
+}
+/* Chữ tiêu đề: Màu đỏ tươi cảnh báo */
+.callout[data-callout="danger"] .callout-title, 
+.callout[data-callout="error"] .callout-title, 
+.callout[data-callout="failure"] .callout-title, 
+.callout[data-callout="fail"] .callout-title, 
+.callout[data-callout="missing"] .callout-title {
+  color: #ff4d6d !important;
+}
+
+/* --- 6. NHÓM HỎI ĐÁP (QUESTION, HELP, FAQ) --- */
+.callout[data-callout="question"], .callout[data-callout="help"], .callout[data-callout="faq"] {
+  --callout-color: 130, 2, 99;
+  background: linear-gradient(90deg, rgba(130, 2, 99, 0.15) 0%, rgba(200, 116, 178, 0.15) 100%);
+  border-left: 4px solid #820263;
+}
+/* Chữ tiêu đề: Màu tím hồng phấn */
+.callout[data-callout="question"] .callout-title, 
+.callout[data-callout="help"] .callout-title, 
+.callout[data-callout="faq"] .callout-title {
+  color: #ff99f8 !important;
+}
+
+/* --- 7. NHÓM VÍ DỤ & TRÍCH DẪN (EXAMPLE, QUOTE, CITE, ABSTRACT, SUMMARY, TLDR) --- */
+.callout[data-callout="example"], .callout[data-callout="quote"], .callout[data-callout="cite"], .callout[data-callout="abstract"], .callout[data-callout="summary"], .callout[data-callout="tldr"] {
+  --callout-color: 162, 210, 255;
+  background: linear-gradient(135deg, rgba(255, 200, 221, 0.12) 0%, rgba(189, 178, 255, 0.12) 50%, rgba(162, 210, 255, 0.12) 100%);
+  border-left: 4px solid #bdb2ff;
+}
+/* Chữ tiêu đề: Màu tím Pastel dịu mắt */
+.callout[data-callout="example"] .callout-title, 
+.callout[data-callout="quote"] .callout-title, 
+.callout[data-callout="cite"] .callout-title, 
+.callout[data-callout="abstract"] .callout-title, 
+.callout[data-callout="summary"] .callout-title, 
+.callout[data-callout="tldr"] .callout-title {
+  color: #d6ccc2 !important;
+}
+
+/* =============================================================
+   CẤU HÌNH CHỮ NỘI DUNG CHUNG (Dành cho Dark Mode làm chuẩn)
+   ============================================================= */
+.callout-content {
+  color: #f5f5f7 !important; /* Màu trắng xám dịu, cực kỳ dễ đọc trên mọi nền màu */
+}
+.callout-title {
+  font-weight: 700 !important;
+}
