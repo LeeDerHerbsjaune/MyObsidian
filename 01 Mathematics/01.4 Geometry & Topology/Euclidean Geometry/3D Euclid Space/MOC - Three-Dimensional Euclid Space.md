@@ -1,3 +1,9 @@
+---
+type: moc
+title: "Three-Dimensional Euclid Space"
+tags:
+  - moc
+---
 ## 5. Knowledge Relationships
 
 ### 5.1 Conceptual Dependencies
@@ -8,8 +14,8 @@
 > |---|---|
 > | [[Real Number]] | Underlying scalar field |
 > | Vector | Represents displacement and direction |
-> | Vector Space]] | Provides the associated vector structure |
-> | Affine Space]] | Provides the geometric structure of points and displacements |
+> | [[Vector Spaces\|Vector Space]] | Provides the associated vector structure |
+> | [[Affine Space]] | Provides the geometric structure of points and displacements |
 > | Cartesian Coordinate System | Represents spatial positions |
 > | Euclidean Distance | Measures separation between points |
 > | Inner Product | Defines angles and orthogonality |
@@ -70,10 +76,10 @@
 > A recommended learning progression is:
 >
 > 1. [[Real Number]]
-> 2. Vector
-> 3. Vector Space]]
-> 4. Affine Space]]
-> 5. Euclidean Space]]
+> 2. [[Vectors|Vector]]
+> 3. [[Vector Spaces|Vector Space]]
+> 4. [[Affine Space]]
+> 5. [[Euclidean Space]]
 > 6. [[Three-Dimensional Coordinate System]]
 > 7. [[Coordinate Transformation]]
 > 8. [[Robot Configuration Space]]

@@ -1,12 +1,20 @@
+---
+type: moc
+title: "Number Systems"
+tags:
+  - moc
+related:
+  - "[[Number Systems]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1 Prerequisite Concepts
 
-- Set-Theoretic Foundations]]
-- Set Theory]]
-- Mathematical Logic]]
-- Cartesian Product]]
-- Relations and Functions]]
+- [[Set-Theoretic Foundations]]
+- [[Set Theory]]
+- [[Mathematical Logic]]
+- [[Cartesian Product]]
+- [[Relations and Functions]]
 
 ### 5.2 Number System Components
 
@@ -32,10 +40,10 @@
 
 ### 5.4 Downstream Concepts
 
-- [[Linear Algebra]]
-- Vector Spaces]]
-- Euclidean Space]]
-- Coordinate Systems]]
+- [[MOC - Linear Algebra|Linear Algebra]]
+- [[Vector Spaces]]
+- [[Euclidean Space]]
+- [[Coordinate Systems]]
 - [[Real Analysis]]
 - [[Complex Analysis]]
 - [[Differential Equations]]
@@ -82,8 +90,8 @@
 >
 > **Engineering and robotics**
 > - [[Real Coordinate Space]]
-> - Vector Spaces]]
-> - Euclidean Space]]
+> - [[Vector Spaces]]
+> - [[Euclidean Space]]
 > - [[Complex Plane]]
 > - [[State Space]]
 

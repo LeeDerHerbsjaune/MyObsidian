@@ -1,3 +1,11 @@
+---
+type: moc
+title: "Degrees of Freedom"
+tags:
+  - moc
+related:
+  - "[[Degrees of Freedom]]"
+---
 
 
 >[!quote] Introduction 
@@ -15,18 +23,18 @@
 ### 5.1 Prerequisites
 
 >[!Foundation]
-> - Coordinate System]] — Defines the reference frames used to describe motion.
+> - [[Coordinate Systems|Coordinate System]] — Defines the reference frames used to describe motion.
     >
 > - Rigid Body — Establishes the idealized mechanical body model.
     >
-> - Generalized coordinates]] — Provides a coordinate representation of a mechanical system.
+> - [[Generalized coordinates]] — Provides a coordinate representation of a mechanical system.
     >
-> - Kinematic Constraint]] — Describes restrictions on admissible configurations or velocities.
+> - [[Kinematic Constraint]] — Describes restrictions on admissible configurations or velocities.
    > 
-> - Linear Algebra]] — Provides the rank and null-space concepts used in constraint analysis.    
-> - 📐Independent Coordinates]]
-> - 📐Configuration Space (C-space)]]
-> -  Chebychev–Grübler–Kutzbach criterion]]
+> - [[MOC - Linear Algebra|Linear Algebra]] — Provides the rank and null-space concepts used in constraint analysis.    
+> - [[📐Independent Coordinates]]
+> - [[📐Configuration Space (C-space)]]
+> -  [[Chebychev–Grübler–Kutzbach criterion]]
 ### 5.2 Parent concepts
 
 - Mechanics
@@ -46,7 +54,7 @@
 | Jacobian Matrix           | Maps joint velocities to task-space velocities; rank reveals local motion capability.                             |
 | Inverse Kinematics        | Finds configurations that achieve a desired end-effector pose.                                                    |
 | [[Workspace]]             | Describes the set of positions or poses reachable by a robot.                                                     |
-| Kinematic Singularity]]   | A configuration where the kinematic mapping loses rank and instantaneous motion capability changes.               |
+| [[Kinematic Singularity]]   | A configuration where the kinematic mapping loses rank and instantaneous motion capability changes.               |
 | [[Actuation]]             | Determines which mechanical coordinates or combinations of coordinates can be controlled.                         |
 | [[Redundant Manipulator]] | Has more independent configuration DoF than are required for a specified task, under the chosen task-space model. |
 
@@ -100,7 +108,7 @@ flowchart TD
     
 4. [[Chebychev–Grübler–Kutzbach criterion]] — Estimate the mobility of mechanisms.
     
-5. Jacobian Matrix — Analyze the mapping between joint and end-effector velocities.
+5. [[Jacobian Matrix]]  — Analyze the mapping between joint and end-effector velocities.
     
 6. Kinematic Singularity — Understand loss of instantaneous motion capability.
     

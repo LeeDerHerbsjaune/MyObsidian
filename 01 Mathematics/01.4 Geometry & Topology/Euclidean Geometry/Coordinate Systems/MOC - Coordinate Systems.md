@@ -1,16 +1,24 @@
+---
+type: moc
+title: "Coordinate Systems"
+tags:
+  - moc
+related:
+  - "[[Coordinate Systems]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1. Prerequisite concepts
 
 > [!info] Mathematical foundations
 >
-> - Three-Dimensional Euclidean Space — Defines the geometric space where coordinates are assigned.
-> - Linear Algebra]] — Provides the mathematical operations used to manipulate coordinate representations.
-> - Vector]] — Represents positions and directions.
-> - Basis Vector]] — Defines independent coordinate directions.
-> - Inner Product — Defines angles and orthogonality.
-> - Euclidean Distance]] — Measures spatial separation.
-> - [[Rigid Transformations and Rotations]] — Defines transformations between spatial reference frames.
+> - [[Three-Dimensional Euclidean Space]] — Defines the geometric space where coordinates are assigned.
+> - [[MOC - Linear Algebra|Linear Algebra]] — Provides the mathematical operations used to manipulate coordinate representations.
+> - [[Vectors|Vector]] — Represents positions and directions.
+> - [[Basis Vector]] — Defines independent coordinate directions.
+> - [[Inner Product]] — Defines angles and orthogonality.
+> - [[Euclidean Distance]] — Measures spatial separation.
+> - [[Rigid Transformations & Rotations|Rigid Transformations and Rotations]] — Defines transformations between spatial reference frames.
 
 ### 5.2. Related concepts
 
@@ -21,7 +29,7 @@
 > - [[Cylindrical Coordinate System]]
 > - [[Spherical Coordinate System]]
 > - [[Homogeneous Coordinates]]
-> - Generalized Coordinates
+> - [[Generalized coordinates|Generalized Coordinates]]
 >
 > **Coordinate transformations**
 > - [[Coordinate Frame]]
@@ -31,12 +39,12 @@
 > - [[Special Euclidean Group]]
 >
 > **Robotics**
-> - Robot Kinematics]]
-> - Forward Kinematics]]
-> - Inverse Kinematics]]
-> - Robot Pose]]
-> - Robot Localization]]
-> - Sensor Fusion]]
+> - [[Robot Kinematics]]
+> - [[Forward Kinematics]]
+> - [[Inverse Kinematics]]
+> - [[Robot Pose]]
+> - [[Robot Localization]]
+> - [[Sensor Fusion]]
 >
 > **Swarm robotics**
 > - [[Relative Localization]]
@@ -62,33 +70,33 @@
 > [!tip] Recommended next notes
 >
 > **Level 1 — Coordinate geometry**
-> - Three-Dimensional Euclidean Space
+> - [[Three-Dimensional Euclidean Space]]
 > - [[Cartesian Coordinate System]]
 > - Basis Vector
-> - Vector
+> - [[Vectors|Vector]]
 > - Euclidean Distance
 >
 > **Level 2 — Coordinate transformations**
 > - [[Coordinate Frame]]
 > - [[Reference Frame]]
-> - [[Rigid Transformations and Rotations]]
+> - [[Rigid Transformations & Rotations|Rigid Transformations and Rotations]]
 > - Rotation Matrix
 > - [[Homogeneous Coordinates]]
-> - Homogeneous Transformation Matrix]]
+> - [[Homogeneous Transformation Matrix]]
 >
 > **Level 3 — Robot kinematics**
-> - Robot Pose]]
-> - Forward Kinematics]]
-> - Inverse Kinematics]]
-> - Denavit-Hartenberg Convention]]
+> - [[Robot Pose]]
+> - [[Forward Kinematics]]
+> - [[Inverse Kinematics]]
+> - [[Denavit-Hartenberg Convention]]
 > - Robot Jacobian
 >
 > **Level 4 — Multi-robot systems**
-> - Relative Localization]]
-> - Distributed Localization]]
-> - Formation Control]]
-> - Multi-Robot Mapping]]
-> - Sensor Fusion]]
+> - [[Relative Localization]]
+> - [[Distributed Localization]]
+> - [[Formation Control]]
+> - [[Multi-Robot Mapping]]
+> - [[Sensor Fusion]]
 >
 > **Suggested learning sequence:**
 >

@@ -1,5 +1,5 @@
 ---
-type: moc
+type: technical-term
 title: Set Theory
 aliases:
   - Theory of Sets
@@ -14,7 +14,6 @@ confidence: 1
 created: 2026-10-31
 updated: 2026-10-31
 tags:
-  - moc
   - mathematics
   - set-theory
   - foundations

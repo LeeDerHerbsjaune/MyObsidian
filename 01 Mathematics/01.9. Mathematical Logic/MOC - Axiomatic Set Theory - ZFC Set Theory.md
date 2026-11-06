@@ -1,3 +1,9 @@
+---
+type: moc
+title: "Axiomatic Set Theory - ZFC Set Theory"
+tags:
+  - moc
+---
 > [!info] Axiomatic Set Theory
 > Studies set theory through formal axioms and logical inference.
 >

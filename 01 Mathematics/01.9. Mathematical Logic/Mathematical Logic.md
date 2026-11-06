@@ -1,5 +1,5 @@
 ---
-type: moc
+type: technical-term
 title: Mathematical Logic
 aliases:
   - Formal Logic
@@ -15,7 +15,6 @@ confidence: 1
 created: 2026-10-31
 updated: 2026-10-31
 tags:
-  - moc
   - mathematics
   - logic
   - foundations
@@ -37,16 +36,16 @@ related:
 ## 2. Fundamental Concepts
 
 > [!abstract] Basic Logical Concepts
-> - Proposition]] — a declarative statement that has a truth value.
-> - Predicate]] — a logical expression whose truth depends on its arguments.
-> - Truth Value]] — a value representing truth or falsity.
-> - Quantifier]] — an operator expressing universal or existential conditions.
-> - Logical Argument]] — a collection of premises and a conclusion.
-> - Validity]] — a property of arguments whose conclusions follow from their premises.
-> - Satisfiability]] — the existence of an interpretation under which a formula is true.
-> - Contradiction]] — a proposition that is false under every interpretation.
-> - Tautology]] — a proposition that is true under every interpretation.
-> - Logical Consistency]] — the absence of contradiction in a logical theory.
+> - [[Proposition]] — a declarative statement that has a truth value.
+> - [[Predicate]] — a logical expression whose truth depends on its arguments.
+> - [[Truth Value]] — a value representing truth or falsity.
+> - [[Quantifier]] — an operator expressing universal or existential conditions.
+> - [[Logical Argument]] — a collection of premises and a conclusion.
+> - [[Validity]] — a property of arguments whose conclusions follow from their premises.
+> - [[Satisfiability]] — the existence of an interpretation under which a formula is true.
+> - [[Contradiction]] — a proposition that is false under every interpretation.
+> - [[Tautology]] — a proposition that is true under every interpretation.
+> - [[Logical Consistency]] — the absence of contradiction in a logical theory.
 
 ## 4. Applications
 
@@ -74,12 +73,12 @@ related:
 ## 8. Knowledge Links and Further Development
 
 > [!todo] Future Development
-> - [ ] Develop Propositional Logic]].
-> - [ ] Develop First-Order Logic]].
-> - [ ] Develop Formal Systems]].
-> - [ ] Develop Proof Theory]].
-> - [ ] Develop Model Theory]].
-> - [ ] Develop Computability Theory]].
-> - [ ] Develop Non-Classical Logics]].
-> - [ ] Develop Type Theory]].
-> - [ ] Connect mathematical logic with Formal Methods]] and Swarm Robotics]].
+> - [ ] Develop [[Propositional Logic]].
+> - [ ] Develop [[First-Order Logic]].
+> - [ ] Develop [[Formal Systems]].
+> - [ ] Develop [[Proof Theory]].
+> - [ ] Develop [[Model Theory]].
+> - [ ] Develop [[Computability Theory]].
+> - [ ] Develop [[Non-Classical Logics]].
+> - [ ] Develop [[Type Theory]].
+> - [ ] Connect mathematical logic with [[Formal Methods]] and [[Swarm Robotics]].

@@ -1,4 +1,6 @@
 ---
+type: moc
+title: "Vectors and Vector Spaces"
 related:
   - "[[Vector Spaces]]"
   - "[[Vectors]]"
@@ -7,4 +9,6 @@ related:
   - "[[Spanning Sets]]"
   - "[[Basis]]"
   - "[[Dimensions]]"
+tags:
+  - moc
 ---

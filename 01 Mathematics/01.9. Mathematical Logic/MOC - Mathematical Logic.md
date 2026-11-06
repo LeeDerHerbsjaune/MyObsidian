@@ -1,7 +1,12 @@
 ---
+type: moc
+title: "Mathematical Logic"
 related:
   - "[[Non-Classical & Alternative Logics]]"
   - "[[Mathematical Logic - Relations and Functions]]"
+  - "[[Mathematical Logic]]"
+tags:
+  - moc
 ---
 ## 1. Core Areas
 ### 1.1 Classical Logic
@@ -55,51 +60,51 @@ related:
 > [!info] Computability Theory
 > Studies the mathematical foundations and limitations of computation.
 >
-> -  Turing Machines]]
-> -  Recursive Functions]]
-> -  Decidable and Undecidable Problems]]
-> -  Church-Turing Thesis]]
-> -  Halting Problem]]
-> -  Computability and Logic]]
-> -  Computability Theory]]
+> -  [[Turing Machines]]
+> -  [[Recursive Functions]]
+> -  [[Decidable and Undecidable Problems]]
+> -  [[Church-Turing Thesis]]
+> -  [[Halting Problem]]
+> -  [[Computability and Logic]]
+> -  [[Computability Theory]]
 
 ### 1.5 Non-Classical & Alternative Logics
 
 > [!info] Non-Classical Logics
 > Studies logical systems that modify or extend assumptions of classical logic.
 >
-> -  Modal Logic]]
-> -  Intuitionistic Logic]]
-> -  Constructive Logic]]
-> -  Temporal Logic]]
-> -  Fuzzy Logic]]
-> -  Many-Valued Logic]]
-> -  Paraconsistent Logic]]
-> -  Linear Logic]]
+> -  [[Modal Logic]]
+> -  [[Intuitionistic Logic]]
+> -  [[Constructive Logic]]
+> -  [[Temporal Logic]]
+> -  [[Fuzzy Logic]]
+> -  [[Many-Valued Logic]]
+> -  [[Paraconsistent Logic]]
+> -  [[Linear Logic]]
 
 ### 1.6 Type Theory and Computational Logic
 
 > [!info] Type Theory and Computational Logic
 > Connects formal reasoning with computation, programming languages, and automated proof construction.
 >
-> -  Type Theory]]
-> -  Lambda Calculus]]
-> -  Logic Programming]]
-> -  Description Logic]]
-> -  Automated Theorem Proving]]
-> -  SAT Solving]]
-> -  SMT Solving]]
-> -  Computational Logic]]
+> -  [[Type Theory]]
+> -  [[Lambda Calculus]]
+> -  [[Logic Programming]]
+> -  [[Description Logic]]
+> -  [[Automated Theorem Proving]]
+> -  [[SAT Solving]]
+> -  [[SMT Solving]]
+> -  [[Computational Logic]]
 
 
 ## 5. Knowledge Relationships
 
 > [!note] Prerequisite and Related Knowledge
-> - Set Theory — provides the mathematical language and structures used in many logical investigations.
-> - Discrete Mathematics]] — provides foundational concepts in logic, relations, functions, and combinatorics.
-> - Foundations of Mathematics]] — investigates the foundations of mathematical knowledge.
-> - Formal Methods]] — applies formal logic and mathematical reasoning to system specification and verification.
-> - Set-Theoretic Foundations]] — uses set theory as a foundational framework for mathematics.
+> - [[Set Theory]] — provides the mathematical language and structures used in many logical investigations.
+> - [[Discrete Mathematics]] — provides foundational concepts in logic, relations, functions, and combinatorics.
+> - [[Foundations of Mathematics]] — investigates the foundations of mathematical knowledge.
+> - [[Formal Methods]] — applies formal logic and mathematical reasoning to system specification and verification.
+> - [[Set-Theoretic Foundations]] — uses set theory as a foundational framework for mathematics.
 
 
 > [!important] Relationship with Set Theory

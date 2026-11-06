@@ -1,3 +1,11 @@
+---
+type: moc
+title: "Euclidean Geometry"
+tags:
+  - moc
+related:
+  - "[[Euclidean Geometry]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1 Prerequisite Concepts
@@ -8,13 +16,13 @@
 > - [[Congruence]]
 > - [[Euclidean Axioms]]
 > - [[Parallel Postulate]]
-> - Set]]
-> - Vector Space
+> - [[Set]]
+> - [[Vector Spaces|Vector Space]]
 > - [[Euclidean Space]]
-> - Inner Product
-> - Norm]]
-> - Metric Space]]
-> - Coordinate Systems]]
+> - [[Inner Product]]
+> - [[Norms|Norm]]
+> - [[Metric Space]]
+> - [[Coordinate Systems]]
 
 ### 5.2 Related Concepts
 
@@ -22,7 +30,7 @@
 > - [[Analytic Geometry]] — studies geometry using algebraic equations and coordinates.
 > - [[Synthetic Geometry]] — studies geometric relationships through axioms and logical constructions.
 > - Metric and Geometric Properties — studies distances, angles, and geometric invariants.
-> - Rigid Transformations and Rotations]] — studies distance-preserving transformations.
+> - [[Rigid Transformations & Rotations|Rigid Transformations and Rotations]] — studies distance-preserving transformations.
 > - Affine Geometry — studies properties preserved by affine transformations.
 > - [[Projective Geometry]] — studies properties preserved under projective transformations.
 > - [[Non-Euclidean Geometry]] — studies geometries that differ from Euclidean geometry.
@@ -51,10 +59,10 @@
 > 2. [[Parallel Postulate]]
 > 3. [[Euclidean Isometry]]
 > 4. [[Congruence]]
-> 5. Similarity Transformation]]
-> 6. Analytic Geometry
+> 5. [[Similarity Transformation]]
+> 6. [[Analytic Geometry]]
 > 7. [[Non-Euclidean Geometry]]
-> 8. Affine Geometry]]
+> 8. [[Affine Geometry]]
 > 9. [[Projective Geometry]]
 > 10. [[Riemannian Geometry]]
 >

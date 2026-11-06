@@ -1,13 +1,21 @@
+---
+type: moc
+title: "Geometric Objects"
+tags:
+  - moc
+related:
+  - "[[Geometric Objects]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1 Prerequisite Concepts
 
-- Set-Theoretic Foundations
-- Set Theory
-- Euclidean Space
-- Coordinate Systems
-- Vectors
-- Linear Algebra
+- [[Set-Theoretic Foundations]]
+- [[Set Theory]]
+- [[Euclidean Space]]
+- [[Coordinate Systems]]
+- [[Vectors]]
+- [[MOC - Linear Algebra|Linear Algebra]]
 
 ### 5.2 Geometric Object Categories
 
@@ -23,20 +31,20 @@
 
 ### 5.3 Related Geometric Concepts
 
-- Analytic Geometry
-- Metric and Geometric Properties]]
+- [[Analytic Geometry]]
+- [[Metric & Geometry Properties|Metric and Geometric Properties]]
 - [[Geometric Transformations]]
 - [[Rigid Transformations]]
 - [[Rigid Body Motion]]
 - [[Coordinate Transformations]]
 
 ### 5.4 Downstream Robotics Concepts
-- Robot Workspace]]
-- Collision Detection]]
-- Motion Planning]]
-- Trajectory Planning]]
-- Robot Localization]]
-- Geometric Modeling]]
+- [[Robot Workspace]]
+- [[Collision Detection]]
+- [[Motion Planning]]
+- [[Trajectory Planning]]
+- [[Robot Localization]]
+- [[Geometric Modeling]]
 
 > [!tip] Knowledge Graph
 > A recommended conceptual progression is:

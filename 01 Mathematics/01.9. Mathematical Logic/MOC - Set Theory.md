@@ -1,5 +1,10 @@
 ---
+type: moc
+title: "Set Theory"
 related:
+  - "[[Set Theory]]"
+tags:
+  - moc
 ---
 ## 1. Core Areas
 ### 1.1 Basic Set Theory
@@ -58,11 +63,11 @@ related:
 ## 5. Knowledge Relationships
 
 > [!note] Prerequisite and Related Knowledge
-> - Mathematical Logic — provides the formal language and reasoning methods used in axiomatic set theory.
+> - [[Mathematical Logic]] — provides the formal language and reasoning methods used in axiomatic set theory.
 > - Discrete Mathematics — applies set concepts to relations, graphs, and combinatorics.
-> - Number Systems — can be constructed within suitable set-theoretic foundations.
+> - [[Number Systems]] — can be constructed within suitable set-theoretic foundations.
 > - Foundations of Mathematics — investigates the foundational role of set theory and alternative foundations.
-> - Set-Theoretic Foundations — applies set-theoretic constructions as a framework for mathematics.
+> - [[Set-Theoretic Foundations]] — applies set-theoretic constructions as a framework for mathematics.
 
 > [!important] Relationship with Mathematical Logic
 > Set theory and mathematical logic are distinct but interconnected.

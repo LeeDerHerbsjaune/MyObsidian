@@ -1,15 +1,23 @@
+---
+type: moc
+title: "Rigid Transformations & Rotations"
+tags:
+  - moc
+related:
+  - "[[Rigid Transformations & Rotations]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1. Prerequisite concepts
 
 > [!info] Mathematical foundations
 >
-> - Linear Algebra]] — Matrix and vector operations.
-> - Matrix Multiplication]] — Composition of transformations.
-> - Orthogonal Matrix]] — Mathematical structure of rotation matrices.
-> - Cross Product]] — Fundamental operation in three-dimensional rotation mathematics.
-> - Coordinate Frame — Reference system for expressing positions and orientations.
-> - Degree of Freedom]] — Six independent parameters of a free rigid body.
+> - [[MOC - Linear Algebra|Linear Algebra]] — Matrix and vector operations.
+> - [[Matrix Multiplication]] — Composition of transformations.
+> - [[Orthogonal Matrices|Orthogonal Matrix]] — Mathematical structure of rotation matrices.
+> - [[Cross Product]] — Fundamental operation in three-dimensional rotation mathematics.
+> - [[Coordinate Systems|Coordinate Frame]] — Reference system for expressing positions and orientations.
+> - [[Degrees of Freedom|Degree of Freedom]] — Six independent parameters of a free rigid body.
 
 ### 5.2. Related concepts
 
@@ -36,7 +44,7 @@
 > - [[Forward Kinematics]]
 > - [[Inverse Kinematics]]
 > - Robot Pose
-> - Coordinate Frame
+> - [[Coordinate Systems|Coordinate Frame]]
 > - [[Robot Operating System (ROS)]]
 
 ## 10. Knowledge Links and Further Development
@@ -46,7 +54,7 @@
 > To build a rigorous mathematical foundation for robot motion:
 >
 > **Level 1 — Geometry and transformations**
-> - Coordinate Frame
+> - [[Coordinate Systems|Coordinate Frame]]
 > - [[Rotation Matrix]]
 > - Homogeneous Coordinates
 > - [[Homogeneous Transformation Matrix]]

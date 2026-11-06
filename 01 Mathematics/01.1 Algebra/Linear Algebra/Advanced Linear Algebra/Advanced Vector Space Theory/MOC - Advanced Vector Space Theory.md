@@ -1,5 +1,5 @@
 ---
-type: subject
+type: moc
 title: Advanced Vector Space Theory
 aliases: []
 abbreviation: ""
@@ -13,6 +13,7 @@ confidence: 1
 created: 2026-11-05
 updated: 2026-11-05
 tags:
+  - moc
   - linear-algebra
   - vector-spaces
   - advanced-theory
@@ -39,12 +40,12 @@ projects: []
 > It does not attempt to cover every downstream application of these constructions. Applications to differential geometry, quantum mechanics, optimization, and mechanics belong in their respective subject notes.
 
 > [!note] Core Topics
-> 1. Dual Vector Spaces
-> 2. Quotient Vector Spaces
-> 3. Direct Sums
-> 4. Tensor Products
-> 5. Bilinear Forms
-> 6. Quadratic Forms
+> 1. [[Dual Vector Spaces]]
+> 2. [[Quotient Vector Spaces]]
+> 3. [[Direct Sums]]
+> 4. [[Tensor Products]]
+> 5. [[Bilinear Forms]]
+> 6. [[Quadratic Forms]]
 
 > [!important] Conceptual Organization
 > - **Duality:** Dual Vector Spaces associate linear functionals with a vector space.

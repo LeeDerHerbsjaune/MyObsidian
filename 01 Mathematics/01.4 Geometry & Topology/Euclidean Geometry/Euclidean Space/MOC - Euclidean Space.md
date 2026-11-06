@@ -1,3 +1,11 @@
+---
+type: moc
+title: "Euclidean Space"
+tags:
+  - moc
+related:
+  - "[[Euclidean Space]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1 Prerequisite Concepts
@@ -6,21 +14,21 @@
 > Understanding Euclidean space benefits from familiarity with:
 >
 > - [[Set]]
-> - Vector Space
+> - [[Vector Spaces|Vector Space]]
 > - [[Linear Independence]]
 > - [[Basis and Dimension]]
-> - Norm]]
-> - Metric Space]]
+> - [[Norms|Norm]]
+> - [[Metric Space]]
 
 ### 5.2 Related Concepts
 
 > [!note] Closely related topics
 > - [[Three-Dimensional Euclidean Space]] — the three-dimensional case.
 > - [[Coordinate Systems]] — methods for assigning coordinates.
-> - Coordinate Frame]] — an origin and an oriented basis.
+> - [[Coordinate Frame]] — an origin and an oriented basis.
 > - [[Euclidean Distance]] — distance induced by the Euclidean norm.
-> - [[Metric and Geometric Properties]] — distance and geometry-preserving properties.
-> - Rigid Transformations and Rotations]] — transformations preserving Euclidean geometry.
+> - [[Metric & Geometry Properties|Metric and Geometric Properties]] — distance and geometry-preserving properties.
+> - [[Rigid Transformations & Rotations|Rigid Transformations and Rotations]] — transformations preserving Euclidean geometry.
 > - [[Special Euclidean Group]] — the group of proper rigid transformations in three dimensions.
 
 ### 5.3 Important Distinctions
@@ -45,8 +53,8 @@
 > 1. [[Euclidean Vector Space]]
 > 2. [[Euclidean Distance]]
 > 3. Norm
-> 4. Metric Space]]
-> 5. Metric Tensor]]
+> 4. [[Metric Space]]
+> 5. [[Metric Tensor]]
 > 6. [[Riemannian Manifold]]
 > 7. [[Special Euclidean Group]]
 >

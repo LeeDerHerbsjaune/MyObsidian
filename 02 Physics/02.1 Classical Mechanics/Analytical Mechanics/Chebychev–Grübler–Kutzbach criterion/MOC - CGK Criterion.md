@@ -1,3 +1,9 @@
+---
+type: moc
+title: "CGK Criterion"
+tags:
+  - moc
+---
 ## 5. Knowledge Relationships
 
 ### 5.1. Prerequisite concepts
@@ -6,10 +12,10 @@
 > Understanding the CGK criterion requires familiarity with:
 >
 > - [[Rigid Body]] — A body whose internal distances remain constant.
-> - Degrees of Freedom — The number of independent coordinates required to describe a system configuration.
+> - [[Degrees of Freedom]]  — The number of independent coordinates required to describe a system configuration.
 > - [[Kinematic Pair]] — A connection between two bodies that restricts their relative motion.
 > - [[Constraint Equation]] — A mathematical relationship restricting system configurations.
-> - Three-Dimensional Euclidean Space — The geometric space in which spatial mechanisms operate.
+> - [[Three-Dimensional Euclidean Space]]  — The geometric space in which spatial mechanisms operate.
 
 ### 5.2. Related concepts
 
@@ -63,7 +69,7 @@
 > - [[Configuration Space]]
 > - [[Constraint Jacobian]]
 > - [[Jacobian Matrix]]
-> - Matrix Rank
+> - [[Matrix Rank]]
 >
 > **Advanced robotics**
 > - Screw Theory

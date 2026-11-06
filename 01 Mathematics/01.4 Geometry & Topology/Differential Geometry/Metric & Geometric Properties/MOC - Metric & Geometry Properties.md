@@ -1,28 +1,36 @@
+---
+type: moc
+title: "Metric & Geometry Properties"
+tags:
+  - moc
+related:
+  - "[[Metric & Geometry Properties]]"
+---
 ## 5. Knowledge Relationships
 
 ### 5.1. Prerequisite concepts
 
 > [!info] Mathematical foundations
 >
-> - Three-Dimensional Euclidean Space — The space in which Euclidean metric properties are defined.
-> - Vector]] — Mathematical representation of magnitude and direction.
-> - Linear Algebra]] — Mathematical framework for vectors and matrices.
-> - Inner Product — Defines angles and orthogonality.
+> - [[Three-Dimensional Euclidean Space]] — The space in which Euclidean metric properties are defined.
+> - [[Vectors|Vector]] — Mathematical representation of magnitude and direction.
+> - [[MOC - Linear Algebra|Linear Algebra]] — Mathematical framework for vectors and matrices.
+> - [[Inner Product]] — Defines angles and orthogonality.
 > - Norm — Measures vector magnitude.
-> - Euclidean Distance]] — Measures separation between points.
-> - Coordinate Frame]] — Provides a reference system for geometric measurements.
+> - [[Euclidean Distance]] — Measures separation between points.
+> - [[Coordinate Frame]] — Provides a reference system for geometric measurements.
 
 ### 5.2. Related concepts
 
 > [!abstract] Knowledge graph
 >
 > **Metric geometry**
-> - Metric Space]]
+> - [[Metric Space]]
 > - [[Euclidean Metric]]
-> - Euclidean Distance]]
+> - [[Euclidean Distance]]
 > - [[Vector Norm]]
-> - Inner Product
-> - Orthogonality]]
+> - [[Inner Product]]
+> - [[Orthogonality]]
 >
 > **Geometric structures**
 > - [[Collinearity]]
@@ -32,19 +40,19 @@
 > - [[Orientation]]
 >
 > **Transformation theory**
-> - Rigid Transformations and Rotations]]
-> - Rotation Matrix]]
-> - Special Orthogonal Group]]
-> - Special Euclidean Group]]
-> - Affine Transformation]]
-> - Similarity Transformation]]
+> - [[Rigid Transformations & Rotations|Rigid Transformations and Rotations]]
+> - [[Rotation Matrix]]
+> - [[Special Orthogonal Group]]
+> - [[Special Euclidean Group]]
+> - [[Affine Transformation]]
+> - [[Similarity Transformation]]
 >
 > **Robotics applications**
-> - Point Cloud Registration]]
-> - Robot Localization]]
-> - Simultaneous Localization and Mapping]]
-> - Formation Control]]
-> - Collision Detection]]
+> - [[Point Cloud Registration]]
+> - [[Robot Localization]]
+> - [[Simultaneous Localization and Mapping]]
+> - [[Formation Control]]
+> - [[Collision Detection]]
 
 ### 5.3. Relationship with rigid transformations
 
@@ -84,32 +92,32 @@
 > [!tip] Recommended next notes
 >
 > **Level 1 — Euclidean geometry**
-> - Three-Dimensional Euclidean Space
-> - Euclidean Distance]]
+> - [[Three-Dimensional Euclidean Space]]
+> - [[Euclidean Distance]]
 > - [[Vector Norm]]
-> - Inner Product
-> - Orthogonality]]
+> - [[Inner Product]]
+> - [[Orthogonality]]
 >
 > **Level 2 — Geometric transformations**
-> - [[Rigid Transformations and Rotations]]
+> - [[Rigid Transformations & Rotations|Rigid Transformations and Rotations]]
 > - [[Isometry]]
 > - [[Geometric Invariant]]
 > - [[Rotation Matrix]]
 > - [[Special Euclidean Group]]
 >
 > **Level 3 — Advanced geometry**
-> - Metric Tensor]]
-> - Metric Space]]
+> - [[Metric Tensor]]
+> - [[Metric Space]]
 > - Differential Geometry
 > - Riemannian Geometry
-> - Lie Group]]
+> - [[Lie Group]]
 >
 > **Level 4 — Robotics applications**
-> - Point Cloud Registration]]
-> - Robot Localization]]
-> - Simultaneous Localization and Mapping]]
-> - Formation Control]]
-> - Geometric Control]]
+> - [[Point Cloud Registration]]
+> - [[Robot Localization]]
+> - [[Simultaneous Localization and Mapping]]
+> - [[Formation Control]]
+> - [[Geometric Control]]
 >
 > **Suggested learning sequence:**
 >

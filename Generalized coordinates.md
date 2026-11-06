@@ -303,10 +303,10 @@ projects: []
 ## 10. Knowledge Links and Further Development
 
 > [!tip] Suggested next notes
-> 1. [[Degrees of Freedom (DoF)]]
+> 1. [[Degrees of Freedom|Degrees of Freedom (DoF)]]
 > 2. Configuration Space
 > 3. [[Generalized Velocity]]
 > 4. [[Generalized Forces]]
 > 5. [[Holonomic Constraint]]
-> 6. [[Euler-Lagrange Equation]]
+> 6. [[Euler–Lagrange Equation|Euler-Lagrange Equation]]
 > 7. Robot Jacobian
